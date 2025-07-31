@@ -40,7 +40,7 @@ Customer churn is a major problem across industries. Businesses lose revenue whe
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/yourusername/smart-churn-retention-system
+git clone https://github.com/Ahsan-2024/smart-churn-retention-system
 cd smart-churn-retention-system
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
